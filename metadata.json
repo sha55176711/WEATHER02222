@@ -1,0 +1,7 @@
+{
+  "name": "React Weather Forecast",
+  "description": "A sleek, modern weather forecast application that provides current and 7-day weather predictions based on user-provided or detected geographic coordinates. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
